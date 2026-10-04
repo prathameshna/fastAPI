@@ -1,0 +1,13 @@
+{
+  "[python]": {
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": false
+    },
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.tabCompletion": "on"
+  },
+  "python.analysis.autoImportCompletions": true
+}
